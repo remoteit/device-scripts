@@ -287,7 +287,6 @@ elif [ "$action" == "Uncloak Service" ]; then
 	fi
 fi
 
-Status_C ""
 
 #-------------------------------------------------
 
